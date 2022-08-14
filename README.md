@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gishencboraluwa&" alt="gishencboraluwa" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GishenCBoraluwa)
+
 
 ![Profile views](https://gpvc.arturio.dev/GishenCBoraluwa) 
 
